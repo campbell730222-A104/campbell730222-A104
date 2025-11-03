@@ -28,10 +28,11 @@ Here are some ideas to get you started:
 ---
 
 ### About me
-- Erasmus Mundus TPTI · Paris/Padova/Évora  
-- Patrimoine, muséologie, IA/LLM et humanités numériques  
-- 喜歡把文化遺產做成小工具 / 視覺化 demo
+- Erasmus Mundus TPTI · Paris/Padoue/Évora
 
+- Patrimoine, muséologie, IA/LLM et humanités numériques
+
+- J’aime transformer le patrimoine culturel en petits outils et en démonstrations de visualisation.
 ### Contact
-- ✉️ `campbell730222@gmail.com`（示例，換成你的）
+- ✉️ `campbell730222@gmail.com`
 
